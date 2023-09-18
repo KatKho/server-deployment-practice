@@ -26,10 +26,10 @@ params:
 
 ## URLs
 
-[Dev branch](https://server-deployment-practice-dev-whyt.onrender.com)
-[Main branch](https://server-deployment-practice-main-lx5t.onrender.com)
-[PR](https://github.com/KatKho/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed)
-[GitHub Actions](https://github.com/KatKho/server-deployment-practice/actions)
+- [Dev branch](https://server-deployment-practice-dev-whyt.onrender.com)
+- [Main branch](https://server-deployment-practice-main-lx5t.onrender.com)
+- [PR](https://github.com/KatKho/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed)
+- [GitHub Actions](https://github.com/KatKho/server-deployment-practice/actions)
 
 ## Contributors
 
